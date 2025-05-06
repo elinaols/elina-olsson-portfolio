@@ -64,9 +64,9 @@ export default function Cv() {
                     </div>
                     <div className="col pb-4">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Skills</p>
-                        <p><span className="fs-5 primary-color pe-2 fw-bold">Klientsidan</span>html - css - js - react - react native - angular - vue - jquery - bootstrap - ux - ui</p>
-                        <p><span className="fs-5 primary-color pe-2 fw-bold">Serversidan</span>sql - php - node.js - asp.net - c# - mysql - mongodb - sqlite - databashantering</p>
-                        <p><span className="fs-5 primary-color pe-2 fw-bold">Övriga färdigheter</span>git - figma - visual studio code - responsiv design - render - b-körkort</p>
+                        <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Klientsidan</span>html - css - js - react - react native - angular - vue - jquery - bootstrap - ux - ui</p>
+                        <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Serversidan</span>sql - php - node.js - asp.net - c# - mysql - mongodb - sqlite - databashantering</p>
+                        <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Övriga färdigheter</span>git - figma - visual studio code - responsiv design - render - b-körkort</p>
                     </div>
                 </div>
                 <Footer/>

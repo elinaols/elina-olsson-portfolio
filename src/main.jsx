@@ -11,7 +11,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/elina-olsson-portfolio/'>
       <Routes>
         <Route path="/" element={<App/>}>
           <Route index element={<Home/>}/>
