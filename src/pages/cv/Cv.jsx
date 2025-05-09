@@ -28,13 +28,13 @@ export default function Cv() {
                     </div>
                     <div className="col pb-5">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Utbildning</p>
-                        <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold">Högskolan Väst</p>
-                        <div className="container px-0 d-flex justify-content-between flex-wrap">
+                        <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold pb-1">Högskolan Väst</p>
+                        <div className="container-fluid px-0 d-flex justify-content-between flex-wrap">
                             <p className="text-start col">Webmaster, 120 hp</p>
                             <p className="text-end mb-0 col">Aug 2023 - Jun 2025</p>
                         </div>
-                        <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold">Björn Axén Academy</p>
-                        <div className="container px-0 d-flex justify-content-between flex-wrap">
+                        <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold pb-1">Björn Axén Academy</p>
+                        <div className="container-fluid px-0 d-flex justify-content-between flex-wrap">
                             <p className="text-start col">Frisörutbildning</p>
                             <p className="text-end mb-0 col">Aug 2018 - Jun 2019</p>
                         </div>
@@ -42,24 +42,28 @@ export default function Cv() {
                     <div className="col pb-5">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Erfarenhet</p>
                         <p className="text-start mb-0 fw-bold primary-color mb-0 fs-5">Sthlm Ladies & Gents</p>
-                        <div className="container px-0 pb-2 d-flex justify-content-between flex-wrap">
+                        <div className="container-fluid px-0 pb-2 d-flex justify-content-between flex-wrap">
                             <div className="text-start col pt-1">
-                                <p className="mb-0 pb-1">Frisör</p>
+                                <div className="d-flex justify-content-between pb-1">
+                                    <p className="mb-0 pb-1">Frisör</p>
+                                    <p className="text-end mb-0 col cv-text-layout">Aug 2021 - Aug 2023</p>
+                                </div>
                                 <p className="mb-0 pb-1">- Bra kundbemötande och service genom att erbjuda kreativa lösningar för att uppfylla kundernas önskemål och behov.</p>
                                 <p className="mb-0 pb-1">- Skapade marknadsföringsinnehåll för salongens sociala medier för att öka synligheten och locka nya kunder.</p>
                                 <p className="mb-0 pb-1">- Arbetade nära kollegor för att stötta varandra och skapa en trygg och produktiv arbetsmiljö.</p>
                             </div>
-                            <p className="text-end mb-0 col cv-text-layout">Aug 2021 - Aug 2023</p>
                         </div>
                         <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold">Björn Axén</p>
-                        <div className="container px-0 d-flex justify-content-between flex-wrap">
+                        <div className="container-fluid px-0 d-flex justify-content-between flex-wrap">
                             <div className="text-start col pt-1">
-                                <p className="mb-0 pb-1">Frisör</p>
+                                <div className="d-flex justify-content-between pb-1">
+                                    <p className="mb-0 pb-1">Frisör</p>
+                                    <p className="text-end col cv-text-layout">Jul 2019 - Jul 2021</p>
+                                </div>
                                 <p className="mb-0 pb-1">- Stort fokus på att leverera hög kvalitet i alla behandlingar, där noggrannhet och detaljer var viktiga för att säkerställa ett professionellt resultat.</p>
                                 <p className="mb-0 pb-1">- Tillämpade avancerade färg- och klipptekniker för att skapa skräddarsydda resultat som mötte kundens önskemål och behov.</p>
                                 <p className="mb-0 pb-1">- Tog gesällbrev under min tid på salongen, vilket fördjupade min expertis och certifierade mina färdigheter inom frisöryrket.</p>
                             </div>
-                            <p className="text-end col cv-text-layout">Jul 2019 - Jul 2021</p>
                         </div>
                     </div>
                     <div className="col pb-4">
