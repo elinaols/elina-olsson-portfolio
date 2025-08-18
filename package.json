@@ -10,7 +10,6 @@
     "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://elinaols.github.io/elina-olsson-portfolio/",
   "dependencies": {
     "bootstrap": "^5.3.5",
     "react": "^19.0.0",
