@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import airpulse from '../../assets/airpulse2.webp'
-import dreamLocation from '../../assets/dreamlocations2.webp'
+import sphereOfVibes from '../../assets/sphereOfVibes.webp'
 import angularVueRestaurants from '../../assets/angularVueRestaurants2.webp'
 import memorygame from '../../assets/memorygame2.webp'
 import edenskolan from '../../assets/edenskolan2.webp'
@@ -28,11 +28,11 @@ export default function Cv() {
                             </div>
                         </div>
                         <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={dreamLocation} className="img-fluid p-0" alt="Lista"/>
+                            <img src={sphereOfVibes} className="img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
-                                <h5 className="card-title text-start fw-bold">Dröm destinationer</h5>
-                                <p className="card-text text-start">Lista med resemål byggd i vanilla JS</p>
-                                <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_1/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
+                                <h5 className="card-title text-start fw-bold">sphere of vibes</h5>
+                                <p className="card-text text-start">Sök efter låtar på Spotify</p>
+                                <Link to={"https://sphere-of-vibes.vercel.app/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
                         <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">

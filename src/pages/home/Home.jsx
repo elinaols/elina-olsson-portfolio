@@ -26,7 +26,7 @@ export default function Home() {
                     </div>
                     <div className="col-12 col-lg-6 text-start p-3">
                         <p className="fs-3 fw-bold">Driven person med hög arbetsmoral</p>
-                        <p>Som en snart examinerad fullstack utvecklare fokuserar jag på att skapa användarvänliga och visuellt tilltalande webbplatser. Min kreativa och tekniska kompetens gör så att jag strävar efter att utveckla lösningar som är både effektiva och funktionella.</p>
+                        <p>Som examinerad fullstack utvecklare fokuserar jag på att skapa användarvänliga och visuellt tilltalande webbplatser. Min kreativa och tekniska kompetens gör så att jag strävar efter att utveckla lösningar som är både effektiva och funktionella.</p>
                         <p>Som person är jag driven, hårt arbetande och kreativ själ som älskar att utmana mig själv samt lära mig nya saker. Jag trivs bäst i arbetsmiljöer där öppenhet och kompetensutveckling prioriteras för att jag ska kunna se mig själv fortsätta växa och utvecklas.</p>
                         <p>Tveka inte att kontakta mig om du vill starta en dialog. Jag är tillgänglig via antingen via e-post på <Link to={"mailto:elina.anna.olsson@gmail.com"} className="text-dark">elina.anna.olsson@gmail.com</Link> eller telefon <Link to={"tel:+46761288127"} className="text-dark">076-1288127</Link>. Hoppas vi hörs!</p>
                     </div>
