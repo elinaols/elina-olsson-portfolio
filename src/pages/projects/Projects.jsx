@@ -23,7 +23,8 @@ export default function Cv() {
                             <img src={airpulse} className="img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Airpulse</h5>
-                                <p className="card-text text-start">Väderapp skapad med React</p>
+                                <p className="card-text text-start">Väderapp med sökfunktion</p>
+                                <p className="card-text text-start">React och Bootstrap</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Examinationsuppgift/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -32,6 +33,7 @@ export default function Cv() {
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">sphere of vibes</h5>
                                 <p className="card-text text-start">Sök efter låtar på Spotify</p>
+                                <p className="card-text text-start">Tailwind och Next</p>
                                 <Link to={"https://sphere-of-vibes.vercel.app/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -40,6 +42,7 @@ export default function Cv() {
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Angular projekt</h5>
                                 <p className="card-text text-start">Hämtar data från JSON-fil</p>
+                                <p className="card-text text-start">Angular</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-angular/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -48,6 +51,7 @@ export default function Cv() {
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Vue projekt</h5>
                                 <p className="card-text text-start">Hämtar data from JSON-fil</p>
+                                <p className="card-text text-start">Vue</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-vue/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -56,6 +60,7 @@ export default function Cv() {
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Memoryspel</h5>
                                 <p className="card-text text-start">Mitt första JavaScript projekt</p>
+                                <p className="card-text text-start">JavaScript</p>
                                 <Link to={"https://elinaols.github.io/memorygame_project/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -64,6 +69,7 @@ export default function Cv() {
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Edenskolan</h5>
                                 <p className="card-text text-start">Bokningssystem byggt med PHP</p>
+                                <p className="card-text text-start">PHP</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/WPR201/PHP_inlamning_ElinaOlsson/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
