@@ -78,8 +78,8 @@ export default function Cv() {
                     <div className="project-text-layout">
                         <p className="fw-bold mb-1 pb-2 fs-3">Olika projekt som jag utvecklat</p>
                         <p>
-                            Ovan presenteras ett urval från de projekt som jag utvecklat under utbildningens gång. I dessa projekt har jag använt olika teknologier för att bygga funktionella och interaktiva webbsidor.
-                            Här har jag använt teknologier som React, Angular, Vue, JavaScript och PHP för att kunna skapa lösningar som både är skalbara och användarvänliga. Varje projekt har gett mig möjlighet att 
+                            Ovan presenteras ett urval från de projekt som jag utvecklat under utbildningens gång och fritid. I dessa projekt har jag använt olika teknologier för att bygga funktionella och interaktiva webbsidor.
+                            Här har jag använt teknologier som React, Next, TypeScript, Angular, Vue, JavaScript och PHP för att kunna skapa lösningar som både är skalbara och användarvänliga. Varje projekt har gett mig möjlighet att 
                             fördjupa mina kunskaper och tillämpa bästa praxis inom frontend- och backendutveckling.
                         </p>
                     </div>
