@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import airpulse from '../../assets/airpulse2.webp'
-import sphereOfVibes from '../../assets/sphereOfVibes.webp'
+import sphereOfVibes from '../../assets/sphereOfVibes.png'
 import angularVueRestaurants from '../../assets/angularVueRestaurants2.webp'
 import memorygame from '../../assets/memorygame2.webp'
 import edenskolan from '../../assets/edenskolan2.webp'
