@@ -11,11 +11,11 @@ export default function Home() {
             <Header/>
             <div className="container text-center mt-5 mb-5 mb-lg-0">
                 <div className="row justify-content-center">
-                    <div className="col-auto col-sm-6 col-md-7 mt-5 mt-md-4 pt-sm-3 pt-md-5">
+                    <div className="col-auto col-sm-6 col-md-7 mt-5 mt-md-4 pt-sm-3 mt-md-5">
                         <p className="text-font fs-1 text-lowercase text-lg-start primary-color">Hej, jag heter <span className="text-capitalize text-font primary-color">E</span>lina <br/><span className="text-font ms-xl-1"><span className="bold">-</span> en driven och kreativ utvecklare</span></p>
                     </div>
                     <div className="col-auto col-sm-6 col-md-5 mb-lg-5 mb-lg-0 mt-0 mt-sm-3">
-                        <img src={pictureOfMe} className="rounded mt-5 mt-md-0 pt-md-5 pt-0 img-fluid" alt="Picture of me"/>
+                        <img src={pictureOfMe} className="rounded mt-5 mt-md-0 mt-md-5 pt-0 img-fluid" alt="Picture of me"/>
                     </div>
                 </div>
             </div>
