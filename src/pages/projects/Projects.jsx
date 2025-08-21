@@ -18,8 +18,8 @@ export default function Cv() {
                 </div>
                 <div className="container px-0 pb-2">
                     <div className="d-flex flex-row flex-wrap justify-content-around mb-5 gap-5">
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={airpulse} className="img-fluid p-0" alt="Lista"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
+                            <img src={airpulse} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Airpulse</h5>
                                 <p className="card-text text-start mb-1">Väderapp med sökfunktion</p>
@@ -27,8 +27,8 @@ export default function Cv() {
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Examinationsuppgift/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={sphereOfVibes} className="img-fluid p-0" alt="Lista"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
+                            <img src={sphereOfVibes} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">sphere of vibes</h5>
                                 <p className="card-text text-start mb-1">Sök efter låtar på Spotify</p>
@@ -36,8 +36,8 @@ export default function Cv() {
                                 <Link to={"https://sphere-of-vibes.vercel.app/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={angularVueRestaurants} className="img-fluid p-0" alt="Lista"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
+                            <img src={angularVueRestaurants} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Angular projekt</h5>
                                 <p className="card-text text-start mb-1">Hämtar data från JSON-fil</p>
@@ -45,8 +45,8 @@ export default function Cv() {
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-angular/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={angularVueRestaurants} className="img-fluid p-0" alt="Lista"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
+                            <img src={angularVueRestaurants} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Vue projekt</h5>
                                 <p className="card-text text-start mb-1">Hämtar data from JSON-fil</p>
@@ -54,8 +54,8 @@ export default function Cv() {
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-vue/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-5 mb-lg-0">
-                            <img src={memorygame} className="img-fluid p-0" alt="Memoryspel"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-5 mb-lg-0">
+                            <img src={memorygame} className="rounded img-fluid p-0" alt="Memoryspel"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Memoryspel</h5>
                                 <p className="card-text text-start mb-1">Mitt första JavaScript projekt</p>
@@ -63,8 +63,8 @@ export default function Cv() {
                                 <Link to={"https://elinaols.github.io/memorygame_project/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
-                        <div className="card shadow bg-body-tertiary rounded mx-3 mb-3 mb-lg-0">
-                            <img src={edenskolan} className="img-fluid p-0" alt="Lista"/>
+                        <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
+                            <img src={edenskolan} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Edenskolan</h5>
                                 <p className="card-text text-start mb-1">Bokningssystem byggt med PHP</p>
