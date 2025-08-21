@@ -42,7 +42,7 @@ export default function Cv() {
                     <div className="col pb-5">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Erfarenhet</p>
                         <p className="text-start mb-0 fw-bold primary-color mb-0 fs-5">Sthlm Ladies & Gents</p>
-                        <div className="container-fluid px-0 pb-2 d-flex justify-content-between flex-wrap">
+                        <div className="container-fluid px-0 pb-3 d-flex justify-content-between flex-wrap">
                             <div className="text-start col pt-1">
                                 <div className="d-flex justify-content-between pb-1">
                                     <p className="mb-0 pb-1">Frisör</p>
