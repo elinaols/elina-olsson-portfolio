@@ -24,7 +24,7 @@ export default function Cv() {
                                 <h5 className="card-title text-start fw-bold">Airpulse</h5>
                                 <p className="card-text text-start mb-1">Väderapp med sökfunktion</p>
                                 <p className="card-text text-start fst-italic">React och Bootstrap</p>
-                                <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Examinationsuppgift/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
+                                <Link to={"https://weather-airpulse.vercel.app/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
                         <div className="card shadow bg-body-tertiary rounded mb-3 mb-lg-0">
