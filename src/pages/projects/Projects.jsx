@@ -40,8 +40,8 @@ export default function Cv() {
                             <img src={angularVueRestaurants} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Angular projekt</h5>
-                                <p className="card-text text-start mb-1">Hämtar data från JSON-fil</p>
-                                <p className="card-text text-start fst-italic">Angular</p>
+                                <p className="card-text text-start mb-1">Hämtar data via eget API</p>
+                                <p className="card-text text-start fst-italic">Angular, Node.js och Express</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-angular/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
@@ -49,8 +49,8 @@ export default function Cv() {
                             <img src={angularVueRestaurants} className="rounded img-fluid p-0" alt="Lista"/>
                             <div className="card-body text-end">
                                 <h5 className="card-title text-start fw-bold">Vue projekt</h5>
-                                <p className="card-text text-start mb-1">Hämtar data from JSON-fil</p>
-                                <p className="card-text text-start fst-italic">Vue</p>
+                                <p className="card-text text-start mb-1">Hämtar data via eget API</p>
+                                <p className="card-text text-start fst-italic">Vue, Node.js och Express</p>
                                 <Link to={"https://webbkurs.ei.hv.se/~elol0031/JSR200/Checkpoint_3/restaurants-vue/"} role="button" className="btn btn-secondary btn-color text-font text-lowercase">Visa</Link>
                             </div>
                         </div>
