@@ -48,9 +48,10 @@ export default function Cv() {
                                     <p className="mb-0 pb-1">Frisör</p>
                                     <p className="text-end mb-0 col cv-text-layout">Aug 2021 - Aug 2023</p>
                                 </div>
-                                <p className="mb-0 pb-1">- Bra kundbemötande och service genom att erbjuda kreativa lösningar för att uppfylla kundernas önskemål och behov.</p>
-                                <p className="mb-0 pb-1">- Skapade marknadsföringsinnehåll för salongens sociala medier för att öka synligheten och locka nya kunder.</p>
-                                <p className="mb-0 pb-1">- Arbetade nära kollegor för att stötta varandra och skapa en trygg och produktiv arbetsmiljö.</p>
+                                <p className="mb-0 pb-1">- Gav professionellt kundbemötande och service genom att anpassa lösningar efter kundernas specifika önskemål och behov.</p>
+                                <p className="mb-0 pb-1">- Planerade och publicerade Instagram-inlägg med före- och efterbilder för att öka synlighet och attrahera nya kunder.</p>
+                                <p className="mb-0 pb-1">- Arbetade i ett team där jag bidrog till god sammanhållning genom öppen kommunikation och vara den inkluderande faktorn</p>
+                                <p className="mb-0 pb-1">- Genomförde behandlingar på ett strukturerat och noggrant sätt för att kunna leverera en trygg och professionell upplevelse.</p>
                             </div>
                         </div>
                         <p className="text-start mb-0 primary-color mb-0 fs-5 fw-bold">Björn Axén</p>
@@ -60,15 +61,13 @@ export default function Cv() {
                                     <p className="mb-0 pb-1">Frisör</p>
                                     <p className="text-end col cv-text-layout">Jul 2019 - Jul 2021</p>
                                 </div>
-                                <p className="mb-0 pb-1">- Stort fokus på att leverera hög kvalitet i alla behandlingar, där noggrannhet och detaljer var viktiga för att säkerställa ett professionellt resultat.</p>
-                                <p className="mb-0 pb-1">- Tillämpade avancerade färg- och klipptekniker för att skapa skräddarsydda resultat som mötte kundens önskemål och behov.</p>
-                                <p className="mb-0 pb-1">- Tog gesällbrev under min tid på salongen, vilket fördjupade min expertis och certifierade mina färdigheter inom frisöryrket.</p>
+                                <p className="mb-0 pb-1">- Utöver de arbetsuppgifter som kommer med frisöryrket (specificerat under Sthlm Ladies & Gents rollen) så genomförde jag gesällbrev för att fördjupa min yrkeskompetens och certifiera mina färdigheter</p>
                             </div>
                         </div>
                     </div>
                     <div className="col pb-4">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Skills</p>
-                        <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Klientsidan</span>html - css - js - react - react native - angular - vue - jquery - bootstrap - ux - ui</p>
+                        <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Klientsidan</span>html - css - js - react - react native - angular - vue - typescript - tailwind - ux - ui</p>
                         <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Serversidan</span>sql - php - node.js - asp.net - c# - mysql - mongodb - sqlite - databashantering</p>
                         <p className="text-start"><span className="fs-5 primary-color pe-2 fw-bold">Övriga färdigheter</span>git - figma - visual studio code - responsiv design - render - b-körkort</p>
                     </div>
