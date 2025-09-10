@@ -24,7 +24,7 @@ export default function Cv() {
                 <div className="container text-center mb-5 main-cv">
                     <div className="col pb-5">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Karriäröversikt</p>
-                        <p className="text-start">Hej! Som snart examinerad fullstack-utvecklare strävar jag efter att arbeta med både frontend och backend för att skapa effektiva och användarvänliga webbapplikationer. Mitt mål är att vidareutveckla min tekniska kompetens och bidra med innovativa lösningar till ert team.</p>
+                        <p className="text-start">Hej! Som examinerad fullstackutvecklare strävar jag efter att arbeta med både frontend och backend för att skapa effektiva och användarvänliga webbapplikationer. Mitt mål är att vidareutveckla min tekniska kompetens och bidra med innovativa lösningar till ert team.</p>
                     </div>
                     <div className="col pb-5">
                         <p className="fs-3 border-bottom pb-3 fw-bold">Utbildning</p>
@@ -59,7 +59,7 @@ export default function Cv() {
                             <div className="text-start col pt-1">
                                 <div className="d-flex justify-content-between pb-1">
                                     <p className="mb-0 pb-1">Frisör</p>
-                                    <p className="text-end col cv-text-layout">Jul 2019 - Jul 2021</p>
+                                    <p className="text-end col cv-text-layout mb-0">Jul 2019 - Jul 2021</p>
                                 </div>
                                 <p className="mb-0 pb-1">- Utöver de arbetsuppgifter som kommer med frisöryrket (specificerat under Sthlm Ladies & Gents rollen) så genomförde jag gesällbrev för att fördjupa min yrkeskompetens och certifiera mina färdigheter</p>
                             </div>
